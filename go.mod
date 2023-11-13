@@ -1,4 +1,4 @@
-module credslol
+module github.com/hugmouse/windows-creds-list
 
 go 1.21rc3
 
